@@ -1,0 +1,10 @@
+# Ignore OpenWrt build files
+/bin/
+/build_dir/
+/staging_dir/
+/tmp/
+
+# Ignore binaries
+*.ipk
+*.bin
+*.o
